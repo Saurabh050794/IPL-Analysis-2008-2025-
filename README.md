@@ -8,7 +8,7 @@ An interactive **Power BI Dashboard** built on ball-by-ball and match-level IPL 
 
 > IPL Analysis Dashboard — Season 2025 View
 
-![IPL Dashboard](dashboard_preview.png)
+
 
 ---
 
